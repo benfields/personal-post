@@ -5,7 +5,7 @@ a simple, yet awesome, open source blog template.
 
 =============
 
-this code is licensed under two (2) source code licenses, mine ("me", "mine" or "I" refer to "Ben Fields", " Ben Fields' " or "@benfields" [on GitHub, respectively] ) and the Public Domian (CC0) license. My license can be found at the end of this file (README.md), and the Public Domain (CC0) license can be found in the LICENSE file.
+this code is licensed under two (2) source code licenses, mine ("me", "mine" or "I" refer to "Ben Fields", " Ben Fields' " or "@benfields" [on GitHub, respectively] ) and the Mozilla Public License Version 2.0 (MPL license). My license can be found at the end of this file (README.md), and the Mozilla Public License Version 2.0 can be found in the LICENSE file.
 
 =============
 
